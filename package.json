@@ -1,0 +1,24 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sql.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "t`ype": "git",
+    "url": "git+https://github.com/ediesportlond/intro-sql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ediesportlond/intro-sql/issues"
+  },
+  "homepage": "https://github.com/ediesportlond/intro-sql#readme",
+  "dependencies": {
+    "pg": "^8.8.0"
+  }
+}
