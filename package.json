@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ediesportlond/intro-sql#readme",
   "dependencies": {
-    "pg": "^8.8.0"
+    "pg": "^8.8.0",
+    "readline-sync": "^1.4.10"
   }
 }

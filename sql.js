@@ -4,9 +4,9 @@ const { Client, Pool } = pg;
 const pool = new Pool(
     {
         host: "sql.bocacode.com",
-        database: "bocacode",
+        database: "eddie",
         user: "bocacode",
-        password: "bocacode",
+        password: "BocaCode1122BocaCode3344$$^^",
         port: 5432
     }
 )
@@ -22,7 +22,7 @@ pool.query(query, (err, data) => {
     console.table(data.rows);
     pool.end();
 });
-
+`
 // const quest = ['Who', 'What', 'When', 'Where', 'Why'];
 
 // let id =2;
